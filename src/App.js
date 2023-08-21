@@ -7,6 +7,7 @@ function App() {
   // 변수
   const name = 'njm';
   let age = 51;
+  let gender = true;
   const naver = {
     name : "네이버",
     url : "https://www.naver.com",
